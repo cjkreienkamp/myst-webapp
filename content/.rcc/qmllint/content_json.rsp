@@ -1,0 +1,15 @@
+--bare
+-I
+/Users/chriskreienkamp/code/qtprojects/build-Myst-WebAssembly_Qt_6_7_0_single_threaded-Debug/qml
+-I
+/Users/chriskreienkamp/code/qtprojects/build-Myst-WebAssembly_Qt_6_7_0_single_threaded-Debug/qml
+-I
+/Users/chriskreienkamp/Qt/6.7.0/wasm_singlethread/./qml
+--resource
+/Users/chriskreienkamp/code/qtprojects/build-Myst-WebAssembly_Qt_6_7_0_single_threaded-Debug/content/.rcc/qmake_content.qrc
+--resource
+/Users/chriskreienkamp/code/qtprojects/build-Myst-WebAssembly_Qt_6_7_0_single_threaded-Debug/content/.rcc/content_raw_qml_0.qrc
+/Users/chriskreienkamp/code/qtprojects/Myst/content/App.qml
+/Users/chriskreienkamp/code/qtprojects/Myst/content/Screen01.ui.qml
+--json
+/Users/chriskreienkamp/code/qtprojects/build-Myst-WebAssembly_Qt_6_7_0_single_threaded-Debug/content_qmllint.json

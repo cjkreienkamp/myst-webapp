@@ -1,0 +1,8 @@
+--resource
+/Users/chriskreienkamp/code/qtprojects/build-Myst-WebAssembly_Qt_6_7_0_single_threaded-Debug/imports/Myst/.rcc/qmake_Myst.qrc
+--resource
+/Users/chriskreienkamp/code/qtprojects/build-Myst-WebAssembly_Qt_6_7_0_single_threaded-Debug/imports/Myst/.rcc/Myst_raw_qml_0.qrc
+/qt/qml/Myst/Constants.qml
+/qt/qml/Myst/DirectoryFontLoader.qml
+/qt/qml/Myst/EventListModel.qml
+/qt/qml/Myst/EventListSimulator.qml
