@@ -1,0 +1,75 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"imports/Myst/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "Mystplugin_autogen_timestamp_deps::@0d6cb6b53bb2b1f708d8"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "Mystplugin_autogen::@0d6cb6b53bb2b1f708d8",
+	"isGeneratorProvided" : true,
+	"name" : "Mystplugin_autogen",
+	"paths" : 
+	{
+		"build" : "imports/Myst",
+		"source" : "imports/Myst"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/chriskreienkamp/code/qtprojects/build-Myst-WebAssembly_Qt_6_7_0_single_threaded-Debug/imports/Myst/CMakeFiles/Mystplugin_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/chriskreienkamp/code/qtprojects/build-Myst-WebAssembly_Qt_6_7_0_single_threaded-Debug/imports/Myst/CMakeFiles/Mystplugin_autogen.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/chriskreienkamp/code/qtprojects/build-Myst-WebAssembly_Qt_6_7_0_single_threaded-Debug/imports/Myst/Mystplugin_autogen/timestamp.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

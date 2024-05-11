@@ -1,0 +1,11 @@
+module Myst
+linktarget Mystplugin
+optional plugin Mystplugin
+classname MystPlugin
+typeinfo Myst.qmltypes
+prefer :/qt/qml/Myst/
+singleton Constants 1.0 Constants.qml
+DirectoryFontLoader 1.0 DirectoryFontLoader.qml
+EventListModel 1.0 EventListModel.qml
+EventListSimulator 1.0 EventListSimulator.qml
+

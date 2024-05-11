@@ -1,0 +1,3 @@
+/Users/chriskreienkamp/code/qtprojects/build-Myst-WebAssembly_Qt_6_7_0_single_threaded-Debug/_deps/ds-subbuild/CMakeFiles/ds-populate.dir
+/Users/chriskreienkamp/code/qtprojects/build-Myst-WebAssembly_Qt_6_7_0_single_threaded-Debug/_deps/ds-subbuild/CMakeFiles/edit_cache.dir
+/Users/chriskreienkamp/code/qtprojects/build-Myst-WebAssembly_Qt_6_7_0_single_threaded-Debug/_deps/ds-subbuild/CMakeFiles/rebuild_cache.dir

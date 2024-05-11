@@ -1,0 +1,15 @@
+-rootPath
+/Users/chriskreienkamp/code/qtprojects/Myst
+-cmake-output
+-output-file
+/Users/chriskreienkamp/code/qtprojects/build-Myst-WebAssembly_Qt_6_7_0_single_threaded-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_MystApp.cmake
+-importPath
+/Users/chriskreienkamp/code/qtprojects/build-Myst-WebAssembly_Qt_6_7_0_single_threaded-Debug/qml/Main
+-importPath
+/Users/chriskreienkamp/code/qtprojects/build-Myst-WebAssembly_Qt_6_7_0_single_threaded-Debug/qml
+-importPath
+/Users/chriskreienkamp/Qt/6.7.0/wasm_singlethread/./qml
+-qrcFiles
+/Users/chriskreienkamp/code/qtprojects/build-Myst-WebAssembly_Qt_6_7_0_single_threaded-Debug/.rcc/configuration.qrc
+/Users/chriskreienkamp/code/qtprojects/build-Myst-WebAssembly_Qt_6_7_0_single_threaded-Debug/.rcc/qmake_Main.qrc
+/Users/chriskreienkamp/code/qtprojects/build-Myst-WebAssembly_Qt_6_7_0_single_threaded-Debug/.rcc/MystApp_raw_qml_0.qrc

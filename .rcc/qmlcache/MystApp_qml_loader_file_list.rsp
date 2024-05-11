@@ -1,0 +1,7 @@
+--resource
+/Users/chriskreienkamp/code/qtprojects/build-Myst-WebAssembly_Qt_6_7_0_single_threaded-Debug/.rcc/configuration.qrc
+--resource
+/Users/chriskreienkamp/code/qtprojects/build-Myst-WebAssembly_Qt_6_7_0_single_threaded-Debug/.rcc/qmake_Main.qrc
+--resource
+/Users/chriskreienkamp/code/qtprojects/build-Myst-WebAssembly_Qt_6_7_0_single_threaded-Debug/.rcc/MystApp_raw_qml_0.qrc
+/qt/qml/Main/main.qml

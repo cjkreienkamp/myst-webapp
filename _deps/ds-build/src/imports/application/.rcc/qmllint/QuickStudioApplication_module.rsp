@@ -1,0 +1,10 @@
+-I
+/Users/chriskreienkamp/code/qtprojects/build-Myst-WebAssembly_Qt_6_7_0_single_threaded-Debug/qml
+-I
+/Users/chriskreienkamp/code/qtprojects/build-Myst-WebAssembly_Qt_6_7_0_single_threaded-Debug/qml
+-I
+/Users/chriskreienkamp/Qt/6.7.0/wasm_singlethread/./qml
+--resource
+/Users/chriskreienkamp/code/qtprojects/build-Myst-WebAssembly_Qt_6_7_0_single_threaded-Debug/_deps/ds-build/src/imports/application/.rcc/qmake_QtQuick_Studio_Application.qrc
+--module
+QtQuick.Studio.Application

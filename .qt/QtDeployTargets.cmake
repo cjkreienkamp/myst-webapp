@@ -1,0 +1,1 @@
+set(__QT_DEPLOY_TARGET_MystApp_FILE /Users/chriskreienkamp/code/qtprojects/build-Myst-WebAssembly_Qt_6_7_0_single_threaded-Debug/MystApp.js)
