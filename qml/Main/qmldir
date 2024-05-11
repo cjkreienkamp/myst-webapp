@@ -1,4 +1,0 @@
-module Main
-typeinfo MystApp.qmltypes
-prefer :/qt/qml/Main/
-

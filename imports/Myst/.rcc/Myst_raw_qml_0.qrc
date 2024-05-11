@@ -1,9 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/Myst/">
-    <file alias="Constants.qml">/Users/chriskreienkamp/code/qtprojects/Myst/imports/Myst/Constants.qml</file>
-    <file alias="DirectoryFontLoader.qml">/Users/chriskreienkamp/code/qtprojects/Myst/imports/Myst/DirectoryFontLoader.qml</file>
-    <file alias="EventListModel.qml">/Users/chriskreienkamp/code/qtprojects/Myst/imports/Myst/EventListModel.qml</file>
-    <file alias="EventListSimulator.qml">/Users/chriskreienkamp/code/qtprojects/Myst/imports/Myst/EventListSimulator.qml</file>
-  </qresource>
-</RCC>
-

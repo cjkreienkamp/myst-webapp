@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/Myst">
-    <file alias="qmldir">/Users/chriskreienkamp/code/qtprojects/build-Myst-WebAssembly_Qt_6_7_0_single_threaded-Debug/qml/Myst/qmldir</file>
-  </qresource>
-</RCC>
-
